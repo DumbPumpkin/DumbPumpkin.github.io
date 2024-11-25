@@ -14,7 +14,7 @@ body {
     replace #f0f0f0 with the colour you want, which you can find by searching for "hex colour picker" online.
      */
     text-align: center;
-    background-color: #FF69B4;
+    background: linear-gradient(90deg, #ff9696, #ffffff);
 }
 
 .main-section {
